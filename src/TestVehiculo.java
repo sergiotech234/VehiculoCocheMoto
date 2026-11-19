@@ -10,6 +10,7 @@ public class TestVehiculo {
         System.out.println("\n=== INFORMACIÓN DE LA MOTO ===");
         moto.mostrarInformacion();
 
+
         System.out.println("\n=== DESCRIPCIÓN CORTA ===");
         System.out.println(coche.descripcionCorta());
         System.out.println(moto.descripcionCorta());
